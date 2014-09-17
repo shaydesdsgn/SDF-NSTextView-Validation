@@ -1,5 +1,5 @@
-SDFTextView
-============
+SDF NSTextView Validation
+=========================
 
 Add simple validation to your text views for the following types:
 
